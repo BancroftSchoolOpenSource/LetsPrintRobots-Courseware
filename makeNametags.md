@@ -2,48 +2,34 @@
 
 For our first assignment we will be using TinkerCAD to make a nametag. We will be taking the nametag that we make together and print them with a 3d printer. 
 
-# 1) Sign In to Google Drive
+# 1) Sign In to Google Classroom
 
-Open Chrome
+Your instructor will add you to the class, it will show up in your google classroom
 
-In the URL bar, type:
+# 2) Create your Tinkercad account
 
-```
-drive.google.com
-```
+sign up for an account
 
-Click Sign In 
+![](image/signup.png)
 
-![](image/drive-sign-in.png)
+Select personal account
 
-\pagebreak
-
-# 2) Find the "Class Code Tinkercad" file
-
-Go to Shared with me
-
-Find "Lets Print Robots" folder
-
-Double Click to go into the folder
-
-Find a file named "Class Code Tinkercad"
-
-Open the file 
-
-Click on the link to join the class
-
-![](image/classCode.png)
-
-
-\pagebreak
-
-# 3) Create your Tinkercad account
+![](image/personal.png)
 
 Click on the Google "G" 
 
 ![](image/tinker-create-account.png)
 
 \pagebreak
+
+# 3) Join the  class
+
+Go to Google Classroom
+
+Find the "Join the Class" assignment
+
+click the link to join the class
+
 
 # 4) Create a new Design
 
