@@ -1,4 +1,7 @@
-# Assignment 1: Lets Make a Nametag!
+# Lets Make a Nametag!
+
+
+![](image/groupFinal.png)
 
 For our first assignment we will be using TinkerCAD to make a nametag. We will be taking the nametag that we make together and print them with a 3d printer. 
 
