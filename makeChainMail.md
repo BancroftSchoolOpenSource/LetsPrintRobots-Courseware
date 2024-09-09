@@ -3,7 +3,7 @@
 
 ![](image/mail-done.png)
 
-We will not make a link for a 3d printable chain mail. 
+We will now make a link for a 3d printable chain mail. 
 
 # 1 Use these Drawings to get your dimentions
 
@@ -26,7 +26,7 @@ Make the blocks you will need to make the link
 
 5 x Riser Blocks 
 
-Use the allign tool to allign the cross block to the first Edg block
+Use the allign tool to allign the cross block to the first Edge block
 
 Group the Alligned edge and cross block
 
