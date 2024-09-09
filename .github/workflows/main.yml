@@ -22,6 +22,7 @@ jobs:
       - run: cd ScratchWorksheets/;pdflatex -jobname=SaveAndLoad-${{  github.ref_name }} SaveAndLoad.tex
       - run: ls -al .
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=Overview-${{  github.ref_name }}.pdf README.md
+      - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeChainMail-${{  github.ref_name }}.pdf makeChainMail.md
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=LetsMakeNametags-${{  github.ref_name }}.pdf makeNametags.md
       - run: pandoc  --standalone  --self-contained  --embed-resources --from markdown --output=DancingGhost-${{  github.ref_name }}.pdf DancingGhost.md
       - name: release
@@ -70,4 +71,13 @@ jobs:
               upload_url: ${{ steps.create_release.outputs.upload_url }}
               asset_path: DancingGhost-${{  github.ref_name }}.pdf
               asset_name: DancingGhost-${{  github.ref_name }}.pdf
+              asset_content_type: application/binary
+      - name: Upload PDF4
+        uses: actions/upload-release-asset@v1
+        env:
+              GITHUB_TOKEN: ${{ github.token }}
+        with:
+              upload_url: ${{ steps.create_release.outputs.upload_url }}
+              asset_path: LetsMakeChainMail-${{  github.ref_name }}.pdf
+              asset_name: LetsMakeChainMail-${{  github.ref_name }}.pdf
               asset_content_type: application/binary
