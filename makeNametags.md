@@ -156,17 +156,27 @@ Click export and select .stl
 
 ![](image/export.png)
 
-Navigate to the Lets Print Robots folder, find Nametags and navigate inside it
-
-![](image/folders.png)
-
-Click the downloads Menu, select your .stl and drag it into the folder
-
-![](image/dragInSTL.png)
-
 \pagebreak
 
-# 11 All Done!
+# 11) Submit STL to Google Classroom
+
+In Google Classroom Submit your STL file to complete the assignment
+
+Look for "Lets Make Nametags!" assignment
+
+Submit a file
+
+Select Upload file
+
+Browse for the file
+
+Look in your "Downloads" folder
+
+Select the file
+
+Submit the assignment once uploaded. 
+
+# 12 All Done!
 
 Your nametag will be printed on the 3d printer in the next batch!
 
