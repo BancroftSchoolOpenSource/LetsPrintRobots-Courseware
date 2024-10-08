@@ -49,9 +49,9 @@ Use the allign tool to allign the top of the servo to the side with the calibrat
 
 ![](dancingGhostImage/2-13-44-47.png)
 
-Select just the servo. Set the snap grid to 1mm and move 5mm up. Set the snap grid to 0.5mm and move 1.5mm to the left.
+Select just the servo. Set the snap grid to 0.5mm and move 1.5mm to the left.
 
-![](dancingGhostImage/2-13-45-25.png)
+![](dancingGhostImage/NewServoAllign.png)
 
 
 \pagebreak
